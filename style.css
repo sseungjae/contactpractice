@@ -115,7 +115,7 @@ body {
 .container .row100 .inputBox textarea:focus + .text,
 .container .row100 .inputBox textarea:valid + .text {
   top: -35px;
-  left: -10px;f
+  left: -10px;
 }
 
 .container .row100 .inputBox textarea:focus ~ .line,
@@ -123,7 +123,7 @@ body {
   height: 100%;
 }
 
-input[type="submit"]{
+input[type="submit"] {
   border: none;
   padding: 7px 35px;
   cursor: pointer;
@@ -133,4 +133,3 @@ input[type="submit"]{
   font-size: 18px;
   border-radius: 2px;
 }
-
